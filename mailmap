@@ -1,0 +1,5 @@
+# format of .mailmap file
+# <new-email> <old-email>
+# NewName <new-email> OldName <old-email>
+<abc@gmail.com> <abc1@yahoo.vn>
+<abc@gmail.com> <abC@gmail.com>
