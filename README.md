@@ -1,6 +1,12 @@
 # change-git-author
 Change git author using .mailmap file
 
+## Requirements:
+   - `git-filter-repo`
+       
+         python3 -m pip install --user git-filter-repo
+   
+
 ## Steps:
 1. Change mailmap file
 2. Run scripts `change-git.sh` in a repository folder
